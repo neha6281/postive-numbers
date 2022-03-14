@@ -1,3 +1,4 @@
+#positive numbers
 #using for loop
 list1 = [5,-3,0,23,-6,8]
 for num  in list1:
